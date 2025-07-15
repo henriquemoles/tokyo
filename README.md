@@ -5,6 +5,8 @@ O objetivo principal foi demonstrar não só domínio de Flutter, mas também at
 
 ##  https://first-project-hfm.web.app/ 
 ##  apk disponivel para download na raiz o projeto
+##  !! Não tive acesso aos assets no email, utilizei um svg que achei no google
+##  estou disponibilizando prints do firebase numa pasta chamada prints
 
 ---
 
